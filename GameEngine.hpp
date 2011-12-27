@@ -9,6 +9,8 @@
 #ifndef CODEMINES_GAMEENGINE_HEADER_INCLUDED_
 #define CODEMINES_GAMEENGINE_HEADER_INCLUDED_ 1
 
+#include <cstdlib>
+#include <ctime>
 #include <vector>
 #include "GameTiles.hpp"
 

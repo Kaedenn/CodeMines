@@ -9,6 +9,7 @@
 #include <ctime>
 #include <iomanip>
 #include <fstream>
+#include <algorithm>
 #include "InputOutput.hpp"
 
 namespace CM {
