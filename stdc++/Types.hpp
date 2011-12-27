@@ -11,6 +11,7 @@
 
 #include <cstddef>
 #include <sstream>
+#include <typeinfo>
 
 namespace CM {
   

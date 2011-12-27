@@ -6,6 +6,7 @@
  * To Public License, Version 2, as published by Sam Hocevar. See
  * http://sam.zoy.org/wtfpl/COPYING for more details. */
 
+#include <algorithm>
 #include <ctime>
 #include <iomanip>
 #include <fstream>
